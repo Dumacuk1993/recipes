@@ -11,3 +11,9 @@ img {
     padding: 36px 0;
     width: 100%;
 }
+
+@media (max-width: 800px) {
+    img {
+        width: 100%;
+    }
+}
